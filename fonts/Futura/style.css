@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'futuraLight';
+	src: url('futura-light-webfont.eot');
+    src: url('futura-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('futura-light-webfont.woff') format('woff'),
+         url('futura-light-webfont.ttf') format('truetype'),
+         url('futura-light-webfont.svg#futura_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'futuraBook';
+	src: url('futura-book-webfont.eot');
+    src: url('futura-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('futura-book-webfont.woff') format('woff'),
+         url('futura-book-webfont.ttf') format('truetype'),
+         url('futura-book-webfont.svg#futura_bookregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'futuraMedium';
+	src: url('futuraltmedium.eot');
+	src: url('futuraltmedium.eot?#iefix') format('embedded-opentype'),
+		 url('futuraltmedium.woff') format('woff'),
+		 url('futuraltmedium.ttf') format('truetype'),
+		 url('futuraltmedium.svg#futuraltmedium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'futuraBold';
+	src: url('futuraltbold-webfont.eot');
+    src: url('futuraltbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('futuraltbold-webfont.woff') format('woff'),
+         url('futuraltbold-webfont.ttf') format('truetype'),
+         url('futuraltbold-webfont.svg#futura_md_btbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
